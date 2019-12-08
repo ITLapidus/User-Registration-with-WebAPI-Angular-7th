@@ -10,7 +10,7 @@ namespace WebAPIEx.Models
     {
         public AuthentificationContext(DbContextOptions options) : base(options)
         {
-
+                
         }
     }
 }    
