@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MSI GT72VR 6RE DMPTB\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MSI GT72VR 6RE DMPTB\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
